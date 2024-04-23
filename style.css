@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color:#000000;
+    color: white;
+}
+
+button{
+    background-color: #db0000;
+    color: white;
+    border: none;
+    padding: 5px 12px 5px 12px;
+    border-radius: 3%;
+    margin-top: 10px;
+}
+
+.movie-container{
+    border-style: solid;
+    border-color: #1e1d1d;
+    border-radius: 5px;
+    padding: 10px;
+    border-width: 1px;
+}
