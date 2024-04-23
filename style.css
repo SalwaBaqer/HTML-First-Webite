@@ -14,9 +14,18 @@ button{
 }
 
 .movie-container{
+
     border-style: solid;
-    border-color: #1e1d1d;
+    border-color: #454242;
     border-radius: 5px;
     padding: 10px;
     border-width: 1px;
+    width: 250px;
+    margin: 3%;
+}
+
+.movies-section{
+    display: flex;
+justify-content: center;
+  
 }
